@@ -1,6 +1,6 @@
 # Corerep
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A new Flutter project created with FlutLab/Andriod studio/ Visual Studio Code
 
 ## Getting Started
 
